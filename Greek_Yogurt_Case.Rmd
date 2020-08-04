@@ -1,5 +1,5 @@
 ---
-title: "Greek Yogurt Case - Group 6 - Siyuan Feng, Yue Hu, Yisu Zhao, Yilan Zhang, Jiaqi Xu"
+title: "Greek Yogurt Case"
 output: html_document
 ---
 
